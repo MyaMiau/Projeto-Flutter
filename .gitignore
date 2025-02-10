@@ -1,0 +1,28 @@
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar pastas específicas do Windows
+/AppData/
+/Ambiente de Impressão/
+/Ambiente de Rede/
+/Configurações Locais/
+/Meus Documentos/
+/Menu Iniciar/
+/Recent/
+/SendTo/
+/Modelos/
+/Cookies/
+/Documents/Meus Vídeos/
+/Documents/Minhas Imagens/
+/Documents/Minhas Músicas/
+
+# Ignorar diretórios do Flutter
+/build/
+/android/.gradle/
+/android/app/build/
+/ios/Pods/
+/pubspec.lock
+
+# Arquivos ocultos do Git
+.git/
